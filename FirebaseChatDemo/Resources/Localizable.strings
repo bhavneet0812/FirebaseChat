@@ -1,0 +1,167 @@
+/* 
+  Localizable.strings
+  Onboarding
+
+  Created by Appinventiv on 13/09/17.
+  Copyright © 2017 Gurdeep Singh. All rights reserved.
+*/
+
+// MARK:- APP TITLE
+//===================
+"MAAN" = "MAAN";
+
+//MARK :- App Messages
+//MARK :-=============//
+
+"EnterEmail" = "Please enter Email-Id";
+"InvalidEmail" = "Please enter a valid Email";
+"InvalidFirstName" = "First Name must be character only";
+"InvalidMiddleName" = "Middle Name must be character only";
+"InvalidLastName" = "Last Name must be character only";
+"FirstNameInvalidLength" = "First name must be atleast 3 character long";
+"InvalidUsername" = "Please enter a valid Username";
+"EnterFirstName" = "Please enter First name";
+"EnterMiddleName" = "Please enter Middle name";
+"EnterLastName" = "Please enter Last name";
+"LastNameInvalidLength" = "Last name must be atleast 3 character long";
+
+"UserNameInvalidLength" = "User name must be atleast 6 character long";
+
+"InvalidPhone" = "Please enter 8-10 digits for mobile no.";
+"InvalidPassword" = "Enter 6 character for password section";
+"MinimumAgeLimit" = "Minimum age is 18";
+"MaximumAgeLimit" = "Maximum age is 130";
+"EnterMobile" = "Please enter Mobile Number";
+"EnterPassword" = "Please enter password";
+"EnterConfirmPassword" = "Please enter Confirm password";
+"ConfirmPasswordWrong" = "Confirm password did not match";
+"InvalidCityName" = "Please enter valid city name";
+"CityNameInvalidLength" = "City name must be atleast 3 character long";
+"EnterCityName" = "Please enter City name";
+
+"InvalidRegionName" = "Please enter valid region name";
+"RegionNameInvalidLength" = "Region name must be atleast 3 character long";
+"EnterRegionName" = "Please enter Region name";
+
+"InvalidCountryCode" = "Please enter valid Country code";
+"EnterCountryCode" = "Please enter Country code";
+
+"BiographyInvalidLength" = "Biography must be atleast 3 character long";
+"EnterBiography" = "Please enter biography";
+"SomethingWentWrong" = "Something Went Wrong";
+
+//MARK:- SignupVC
+//===============
+"Male" = "Male";
+"Female" = "Female";
+"Other" = "Other";
+
+"Name" = "Name";
+"FirstName" = "First Name";
+"MiddleName" = "Middle Name";
+"LastName" = "Last Name";
+"UserName" = "User Name";
+"Gender" = "Gender";
+"DateOfBirth" = "Date Of Birth";
+"PhoneNo" = "Phone No";
+"Password" = "Password";
+"City" = "City";
+"CountryCode" = "Country Code";
+"Region" = "Region";
+"Longitude" = "Longitude";
+"Latitude" = "Latitude";
+"PostalCode" = "Postal Code";
+"ConfirmPassword" = "Confirm Password";
+"Done" = "Done";
+
+//MARK:- LoginVC
+//==============
+"Ok" = "Ok";
+"Login" = "Login";
+"Back" = "Back";
+"EmailAddress" = "Email Address";
+"Password" = "Password";
+"ForgotPassword" = "Forgot Password";
+"Logout" = "Logout";
+
+//MARK:- ForgotPasswordVC
+//=======================
+"SendOTPToEmailAddress" = "Send OTP to email address";
+"Continue" = "Continue";
+
+
+//MARK:- UserDetailViewController
+//===============================
+"ChangePassword" = "Change Password";
+
+
+//MARK:- HomeViewController
+//=========================
+"SignUp" = "SignUp";
+
+//MARK:- ChangePasswordVC
+//=======================
+"OldPassword" = "Old Password";
+"NewPassword" = "New Password";
+"ChangePassword" = "Change Password";
+
+"EnterOldPassword" = "Please Enter Old Password";
+"InvalidOldPassword" = "Invalid Old Password";
+"EnterNewPassword" = "Please Enter New Password";
+"InvalidNewPassword" = "Invalid New Password";
+
+//MARK:- CountryCodeVC
+//=======================
+"SelectCountry" = "Select Country";
+"SearchCountry" = "Search Country";
+
+//MARK:- ChangePasswordVC
+//=======================
+"EnterNewPasswordForYourAccount" = "Enter new password for your account";
+
+
+//MARK:- UIViewController Extension
+//=================================
+"ChooseOptions" = "Choose Options";
+"Camera" = "Camera";
+"CameraNotAvailable" = "Camera not available";
+"ChooseFromGallery" = "Choose from gallery";
+"TakePhoto" = "Take Photo";
+"Cancel" = "Cancel";
+"Alert" = "Alert";
+"Settings" = "Settings";
+"RestrictedFromUsingCamera" = "You have been restricted from using the camera on this device without camera access this feature wont work";
+"ChangePrivacySettingAndAllowAccessToCamera" = "Please change your privacy setting from the Settings app and allow access to camera for your app";
+"RestrictedFromUsingLibrary" = "You have been restricted from using the photo library on this device Without camera access this feature wont work";
+"ChangePrivacySettingAndAllowAccessToLibrary" = "Please change your privacy setting from the Settings app and allow access to library for your app";
+
+// MARK :- NO INTERNET
+//=====================
+"Sorry" = "Sorry";
+"PleaseTryAgain" = "Please try again";
+"PleaseCheckInternetConnection" = "Please check your internet connection and try again";
+
+
+// MARK :- RANDOM KEYWORDS
+//========================
+"Success" = "Success";
+"Error" = "Error";
+"Cancel" = "Cancel";
+"CameraNotAvailable" = "Camera is not available";
+"ChooseImage" = "Choose image";
+"ChooseFromGallery" = "Choose from gallery";
+"TakePhoto" = "Take photo";
+"UnderDevelopment" = "Under Development";
+
+"SelectCountry" = "Select Country";
+"ChooseOptions" = "Choose Options";
+"Camera" = "Camera";
+"Alert" = "Alert";
+"Settings" = "Settings";
+"RestrictedCameraDeviceWithoutCameraAccessWork" = "You have been restricted from using the camera on this device without camera access this feature wont work";
+"ChangePrivacyFromSettingsAndAllowAccessCamera" = "Please change your privacy setting from the Settings app and allow access to camera for your app";
+"RestrictedLibraryWithoutCameraAccessWork" = "You have been restricted from using the photo library on this device Without camera access this feature wont work";
+"ChangePrivacyFromSettingsAndAllowAccessLibrary" = "Please change your privacy setting from the Settings app and allow access to library for your app";
+"SignInError" = "Incorrect Username or Password. Please Try Again";
+"NoInternetConnection" = "No Internet Connection";
+
