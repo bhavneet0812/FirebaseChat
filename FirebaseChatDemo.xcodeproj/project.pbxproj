@@ -22,7 +22,6 @@
 		2A615259210ED7CE0034B327 /* FireStorage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A615258210ED7CE0034B327 /* FireStorage.swift */; };
 		2A7D63D6211B7696002633B7 /* FireAuth.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A7D63D5211B7696002633B7 /* FireAuth.swift */; };
 		2A82BBF8210C8C64003A1AE3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A82BBF7210C8C64003A1AE3 /* AppDelegate.swift */; };
-		2A82BC0A210C8F0B003A1AE3 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2A82BC09210C8F0B003A1AE3 /* GoogleService-Info.plist */; };
 		2A82BC5D210CFBB8003A1AE3 /* Chat.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2A82BC10210CFBB7003A1AE3 /* Chat.storyboard */; };
 		2A82BC5E210CFBB8003A1AE3 /* BaseVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A82BC11210CFBB7003A1AE3 /* BaseVC.swift */; };
 		2A82BC60210CFBB8003A1AE3 /* PreLogin.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2A82BC15210CFBB7003A1AE3 /* PreLogin.storyboard */; };
@@ -112,7 +111,6 @@
 		2A82BBF4210C8C64003A1AE3 /* FirebaseChatDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FirebaseChatDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2A82BBF7210C8C64003A1AE3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2A82BC03210C8C66003A1AE3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = Info.plist; path = ../Info.plist; sourceTree = "<group>"; };
-		2A82BC09210C8F0B003A1AE3 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		2A82BC10210CFBB7003A1AE3 /* Chat.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Chat.storyboard; sourceTree = "<group>"; };
 		2A82BC11210CFBB7003A1AE3 /* BaseVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseVC.swift; sourceTree = "<group>"; };
 		2A82BC15210CFBB7003A1AE3 /* PreLogin.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = PreLogin.storyboard; sourceTree = "<group>"; };
@@ -456,7 +454,6 @@
 				2A82BC4B210CFBB7003A1AE3 /* Font */,
 				2A82BC48210CFBB7003A1AE3 /* Assets.xcassets */,
 				2A82BC03210C8C66003A1AE3 /* Info.plist */,
-				2A82BC09210C8F0B003A1AE3 /* GoogleService-Info.plist */,
 				2A82BC47210CFBB7003A1AE3 /* BridgingHeader.h */,
 				2A82BC4A210CFBB7003A1AE3 /* countryData.json */,
 				2A82BC49210CFBB7003A1AE3 /* Localizable.strings */,
@@ -596,7 +593,6 @@
 				2A82BC5D210CFBB8003A1AE3 /* Chat.storyboard in Resources */,
 				2A82BC8D210CFBB8003A1AE3 /* Montserrat-ExtraLight.otf in Resources */,
 				2A82BC8B210CFBB8003A1AE3 /* Montserrat-Light.otf in Resources */,
-				2A82BC0A210C8F0B003A1AE3 /* GoogleService-Info.plist in Resources */,
 				2A82BC91210CFBB8003A1AE3 /* Montserrat-ExtraBold.otf in Resources */,
 				2A82BC8F210CFBB8003A1AE3 /* Montserrat-Medium.otf in Resources */,
 				2A82BC89210CFBB8003A1AE3 /* countryData.json in Resources */,

@@ -34,7 +34,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
         IQKeyboardManager.shared.enable = true
         FirebaseApp.configure()
-        Database.database().isPersistenceEnabled = true
 
         DispatchQueue.mainQueueAsync {
             
